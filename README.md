@@ -92,8 +92,25 @@ print(classification_report1)
 ```
 
 ## Output:
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/751f6b0d-6067-4f38-8665-2f12e78b74d7)
 
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/33d88f22-92a4-4b48-ab89-38087dd354f0)
 
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/c31e1153-0cb3-4fa8-995c-3d0b1d15d33d)
+
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/156ba5b7-1257-4393-bead-0be1fe7e3a65)
+
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/bc193cf7-e3f0-4634-8b89-a6b9d6ee264f)
+
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/c6eeeded-719c-4366-8ad9-718228374f06)
+
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/1ddca660-1873-4738-bf0a-8fa28a4ca273)
+
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/57a6bb0a-6b1e-425d-80b8-0280a9a64250)
+
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/3c2f9262-a68b-48af-b0ca-8ad80875b84b)
+
+![image](https://github.com/Meetha22003992/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119401038/4dda99f2-ca15-4f8d-9665-549ebd041a48)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
